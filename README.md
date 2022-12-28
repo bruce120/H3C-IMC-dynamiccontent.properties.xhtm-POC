@@ -14,5 +14,5 @@ H3C IMC
 ## 使用方法
 ```
 python.exe h3c_imc.py
-輸入目標IP(不用加http)，例：127.0.0.1:8088
+輸入目標IP(需要加http或https)，例：http://127.0.0.1:8088
 ```
